@@ -4,7 +4,7 @@ import jsImage from "./assests/js.jpg";
 import bootImage from "./assests/bootstrap.jpg";
 import angularImage from "./assests/angular.jpeg";
 import reactImage from "./assests/react.jpeg";
-import tailImage from "./assests/tailwind.png";
+import tailImage from "./assests/tailwind.jpg";
 import cppImage from "./assests/cpp.jpeg";
 import javaImage from "./assests/java.png";
 import pythonImage from "./assests/python.jpeg";
